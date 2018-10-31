@@ -27,7 +27,7 @@
 	font-style: normal;
 }
 .header_bg {
-	position: relative;
+	position: relative; 
 	z-index: 4;
 
 }
